@@ -1,6 +1,6 @@
 {
-  "name": "rn-pdf-reader-js",
-  "version": "0.3.0",
+  "name": "@pachun/rn-pdf-reader-js",
+  "version": "0.5.0",
   "description": "PDF reader for Expo",
   "main": "index.js",
   "types": "index.d.ts",
@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xcarpentier/rn-pdf-reader-js.git"
+    "url": "git+https://github.com/pachun/rn-pdf-reader-js.git"
   },
   "peerDependencies": {
     "expo": "*",
